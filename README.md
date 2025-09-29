@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @connortseed
-- 👀 I’m interested in learning ... more about programming and automation
-- 🌱 I’m currently learning ... REST
 - 📫 How to reach me ... cturnipseed12@gmail.com
 
 <!---
